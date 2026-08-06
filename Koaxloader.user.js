@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Koax System
-// @match        *://*/*
+// @match        https://evowars.io/
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @connect      script.google.com
